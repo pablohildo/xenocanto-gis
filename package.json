@@ -1,0 +1,19 @@
+{
+  "name": "xenocanto-gis",
+  "version": "1.0.0",
+  "description": "Extract data from Xeno-Canto and generate GIS prepared files.",
+  "main": "index.js",
+  "repository": {
+    "url": "github.com/pablohildo/xenocanto-gis"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pablohildo",
+  "license": "ISC"
+}
